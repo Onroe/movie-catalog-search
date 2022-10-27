@@ -1,5 +1,5 @@
 {
-  "name": "book-catalog-search",
+  "name": "movie-catalog-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
